@@ -1,13 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-2024 Catalyst Intern
-<!-- THIS IS A COMMENT --->
-Computer Science major at Norfolk State University
-<br> Classification: Junior
+Undergraduate Student at Norfolk State University <br>
+Pronouns: He/Him <br>
+Classification: Junior <br>
+Future Career: Software Developer  <br>
+Fun fact: In my free time, I enjoy playing music and spending time with family and friends.
 
 ### Contact me
 [k.l.bynum@spartans.nsu.edu](mailto:k.l.bynum@spartans.nsu.edu)
