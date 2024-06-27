@@ -1,6 +1,7 @@
 --- 
 layout: post
-title: My second post
+title: Goal Setting
 ---
 
 # This is my second post
+This is for Goal Setting
