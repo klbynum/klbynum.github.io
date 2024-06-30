@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Goalsetting
+title: First Blog Post
 ---
-# Introduction
+# Goalsetting
 - My name is Kemon Bynum. I was born in Norfolk, Virginia but, I was raised in Augusta, Georgia. I am a undergraduate student at Norfolk State Univeristy. I am junior/senior studying computer science. After graduating, I plan to be a software developer.
 - I currently have no experience with open source.
 - I think the strongest skill that I can bring to my team is problem solving because I am pretty with researching issues that I may be having and thoroughly searching for answers.
