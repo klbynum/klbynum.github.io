@@ -4,9 +4,9 @@ title: Goals Check-In
 ---
 
 # Fifth Blog Post
-In my first blog post, I expressed that I would like to improve on the skill of adaptability. Since making the first post, <br>
-I believe that I have improved tremendously. Since I live on the east coast (a long way from west coast), I had to adapt <br>
-to the different time zone and culture. In week one, I felt the days were so long and I could not just stop thinking about <br>
-the time on the east coast. I assumed that this is because every one I know lives on the east coast. I can keep working <br> 
-towards improving this skill from now and the end by getting out, seeing the city, and interacting with people in the city and getting to know the area. 
+In my initial blog post, I expressed my desire to enhance my adaptability skills. Since then, I believe I've made significant strides in this area. Living on the east coast while being far from the west coast has required me to adjust to different time zones and cultures.
+
+During the first week, I found the days to be unusually long, constantly mindful of the time back on the east coast where everyone I know resides. To overcome this challenge, I am committed to continuing to improve my adaptability. I plan to achieve this by exploring the city, interacting with its people, and familiarizing myself with the area. This proactive approach will contribute to my growth in adaptability from now until the end of my journey.
+<br>
+<br>
 ![_config.yml](/images/IMG_8687.jpeg)
