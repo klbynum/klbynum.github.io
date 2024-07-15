@@ -10,3 +10,4 @@ to the different time zone and culture. In week one, I felt the days were so lon
 the time on the east coast. I assumed that this is because every one I know lives on the east coast. I can keep working <br> 
 towards improving this skill from now and the end by getting out, seeing the city, and interacting with people in the <br>
 city.
+// ![_config.yml](/images/IMG_8859.jpeg)
